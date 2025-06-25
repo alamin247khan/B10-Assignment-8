@@ -43,7 +43,7 @@ A modern, responsive e-commerce platform built with React and Vite, featuring a 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/gadget-heaven.git
+git clone https://github.com/alamin247khan/B10-Assignment-8.git
 
 # Navigate to project directory
 cd gadget-heaven
