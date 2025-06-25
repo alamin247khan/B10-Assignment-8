@@ -1,0 +1,752 @@
+[
+  {
+    "product_id": "p1",
+    "product_title": "Phones Gadget 1",
+    "product_image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=200&h=200&fit=crop",
+    "category": "phones",
+    "price": 990,
+    "description": "This is a high-quality phones gadget, model 1.",
+    "specification": [
+      "Quad-Core Processor",
+      "8GB RAM",
+      "256GB SSD"
+    ],
+    "availability": false,
+    "rating": 3.3
+  },
+  {
+    "product_id": "p2",
+    "product_title": "Computers Gadget 2",
+    "product_image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=200&h=200&fit=crop",
+    "category": "computers",
+    "price": 74,
+    "description": "This is a high-quality computers gadget, model 2.",
+    "specification": [
+      "Fast Charging",
+      "Compact Design",
+      "Universal Compatibility"
+    ],
+    "availability": true,
+    "rating": 3.1
+  },
+  {
+    "product_id": "p3",
+    "product_title": "Power Banks Gadget 3",
+    "product_image": "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=200&h=200&fit=crop",
+    "category": "power banks",
+    "price": 976,
+    "description": "This is a high-quality power banks gadget, model 3.",
+    "specification": [
+      "Fast Charging",
+      "Compact Design",
+      "Universal Compatibility"
+    ],
+    "availability": true,
+    "rating": 3.7
+  },
+  {
+    "product_id": "p4",
+    "product_title": "Computers Gadget 4",
+    "product_image": "https://images.unsplash.com/photo-1587831990711-23ca6441447b?w=200&h=200&fit=crop",
+    "category": "computers",
+    "price": 303,
+    "description": "This is a high-quality computers gadget, model 4.",
+    "specification": [
+      "Quad-Core Processor",
+      "8GB RAM",
+      "256GB SSD"
+    ],
+    "availability": false,
+    "rating": 3.3
+  },
+  {
+    "product_id": "p5",
+    "product_title": "Power Banks Gadget 5",
+    "product_image": "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=200&h=200&fit=crop",
+    "category": "power banks",
+    "price": 906,
+    "description": "This is a high-quality power banks gadget, model 5.",
+    "specification": [
+      "Touchscreen",
+      "GPS",
+      "Heart Rate Monitor"
+    ],
+    "availability": true,
+    "rating": 4.2
+  },
+  {
+    "product_id": "p6",
+    "product_title": "Smart Watches Gadget 6",
+    "product_image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=200&h=200&fit=crop",
+    "category": "smart watches",
+    "price": 130,
+    "description": "This is a high-quality smart watches gadget, model 6.",
+    "specification": [
+      "Quad-Core Processor",
+      "8GB RAM",
+      "256GB SSD"
+    ],
+    "availability": true,
+    "rating": 1.3
+  },
+  {
+    "product_id": "p7",
+    "product_title": "Smart Watches Gadget 7",
+    "product_image": "https://images.unsplash.com/photo-1434056886845-dac89ffe9b56?w=200&h=200&fit=crop",
+    "category": "smart watches",
+    "price": 783,
+    "description": "This is a high-quality smart watches gadget, model 7.",
+    "specification": [
+      "10,000mAh",
+      "Dual USB Output",
+      "LED Indicator"
+    ],
+    "availability": true,
+    "rating": 2.1
+  },
+  {
+    "product_id": "p8",
+    "product_title": "Chargers Gadget 8",
+    "product_image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=200&h=200&fit=crop",
+    "category": "chargers",
+    "price": 329,
+    "description": "This is a high-quality chargers gadget, model 8.",
+    "specification": [
+      "10,000mAh",
+      "Dual USB Output",
+      "LED Indicator"
+    ],
+    "availability": true,
+    "rating": 3.3
+  },
+  {
+    "product_id": "p9",
+    "product_title": "Computers Gadget 9",
+    "product_image": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d?w=200&h=200&fit=crop",
+    "category": "computers",
+    "price": 433,
+    "description": "This is a high-quality computers gadget, model 9.",
+    "specification": [
+      "Quad-Core Processor",
+      "8GB RAM",
+      "256GB SSD"
+    ],
+    "availability": false,
+    "rating": 1.4
+  },
+  {
+    "product_id": "p10",
+    "product_title": "Computers Gadget 10",
+    "product_image": "https://images.unsplash.com/photo-1547082299-de196ea013d6?w=200&h=200&fit=crop",
+    "category": "computers",
+    "price": 641,
+    "description": "This is a high-quality computers gadget, model 10.",
+    "specification": [
+      "Fast Charging",
+      "Compact Design",
+      "Universal Compatibility"
+    ],
+    "availability": false,
+    "rating": 4.3
+  },
+  {
+    "product_id": "p11",
+    "product_title": "Phones Gadget 11",
+    "product_image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=200&h=200&fit=crop",
+    "category": "phones",
+    "price": 525,
+    "description": "This is a high-quality phones gadget, model 11.",
+    "specification": [
+      "Fast Charging",
+      "Compact Design",
+      "Universal Compatibility"
+    ],
+    "availability": false,
+    "rating": 2.8
+  },
+  {
+    "product_id": "p12",
+    "product_title": "Phones Gadget 12",
+    "product_image": "https://images.unsplash.com/photo-1574944985070-8f3ebc6b79d2?w=200&h=200&fit=crop",
+    "category": "phones",
+    "price": 480,
+    "description": "This is a high-quality phones gadget, model 12.",
+    "specification": [
+      "10,000mAh",
+      "Dual USB Output",
+      "LED Indicator"
+    ],
+    "availability": false,
+    "rating": 1.7
+  },
+  {
+    "product_id": "p13",
+    "product_title": "Smart Watches Gadget 13",
+    "product_image": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=200&h=200&fit=crop",
+    "category": "smart watches",
+    "price": 621,
+    "description": "This is a high-quality smart watches gadget, model 13.",
+    "specification": [
+      "Touchscreen",
+      "GPS",
+      "Heart Rate Monitor"
+    ],
+    "availability": false,
+    "rating": 1.4
+  },
+  {
+    "product_id": "p14",
+    "product_title": "Power Banks Gadget 14",
+    "product_image": "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=200&h=200&fit=crop",
+    "category": "power banks",
+    "price": 424,
+    "description": "This is a high-quality power banks gadget, model 14.",
+    "specification": [
+      "Touchscreen",
+      "GPS",
+      "Heart Rate Monitor"
+    ],
+    "availability": false,
+    "rating": 2.4
+  },
+  {
+    "product_id": "p15",
+    "product_title": "Phones Gadget 15",
+    "product_image": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?w=200&h=200&fit=crop",
+    "category": "phones",
+    "price": 389,
+    "description": "This is a high-quality phones gadget, model 15.",
+    "specification": [
+      "10,000mAh",
+      "Dual USB Output",
+      "LED Indicator"
+    ],
+    "availability": false,
+    "rating": 1.5
+  },
+  {
+    "product_id": "p16",
+    "product_title": "Smart Watches Gadget 16",
+    "product_image": "https://images.unsplash.com/photo-1579586337278-3f436f25d4d6?w=200&h=200&fit=crop",
+    "category": "smart watches",
+    "price": 438,
+    "description": "This is a high-quality smart watches gadget, model 16.",
+    "specification": [
+      "Touchscreen",
+      "GPS",
+      "Heart Rate Monitor"
+    ],
+    "availability": true,
+    "rating": 3.5
+  },
+  {
+    "product_id": "p17",
+    "product_title": "Phones Gadget 17",
+    "product_image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=200&h=200&fit=crop",
+    "category": "phones",
+    "price": 251,
+    "description": "This is a high-quality phones gadget, model 17.",
+    "specification": [
+      "Bluetooth 5.0",
+      "Water Resistant",
+      "1-Year Warranty"
+    ],
+    "availability": true,
+    "rating": 2.0
+  },
+  {
+    "product_id": "p18",
+    "product_title": "Phones Gadget 18",
+    "product_image": "https://images.unsplash.com/photo-1565849904461-04a58ad377e0?w=200&h=200&fit=crop",
+    "category": "phones",
+    "price": 148,
+    "description": "This is a high-quality phones gadget, model 18.",
+    "specification": [
+      "Quad-Core Processor",
+      "8GB RAM",
+      "256GB SSD"
+    ],
+    "availability": true,
+    "rating": 2.5
+  },
+  {
+    "product_id": "p19",
+    "product_title": "Smart Watches Gadget 19",
+    "product_image": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?w=200&h=200&fit=crop",
+    "category": "smart watches",
+    "price": 209,
+    "description": "This is a high-quality smart watches gadget, model 19.",
+    "specification": [
+      "Fast Charging",
+      "Compact Design",
+      "Universal Compatibility"
+    ],
+    "availability": false,
+    "rating": 4.4
+  },
+  {
+    "product_id": "p20",
+    "product_title": "Smart Watches Gadget 20",
+    "product_image": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?w=200&h=200&fit=crop",
+    "category": "smart watches",
+    "price": 537,
+    "description": "This is a high-quality smart watches gadget, model 20.",
+    "specification": [
+      "Touchscreen",
+      "GPS",
+      "Heart Rate Monitor"
+    ],
+    "availability": false,
+    "rating": 1.2
+  },
+  {
+    "product_id": "p21",
+    "product_title": "Computers Gadget 21",
+    "product_image": "https://images.unsplash.com/photo-1484788984921-03950022c9ef?w=200&h=200&fit=crop",
+    "category": "computers",
+    "price": 476,
+    "description": "This is a high-quality computers gadget, model 21.",
+    "specification": [
+      "10,000mAh",
+      "Dual USB Output",
+      "LED Indicator"
+    ],
+    "availability": false,
+    "rating": 4.6
+  },
+  {
+    "product_id": "p22",
+    "product_title": "Chargers Gadget 22",
+    "product_image": "https://images.unsplash.com/photo-1556656793-08538906a9f8?w=200&h=200&fit=crop",
+    "category": "chargers",
+    "price": 479,
+    "description": "This is a high-quality chargers gadget, model 22.",
+    "specification": [
+      "Bluetooth 5.0",
+      "Water Resistant",
+      "1-Year Warranty"
+    ],
+    "availability": false,
+    "rating": 4.0
+  },
+  {
+    "product_id": "p23",
+    "product_title": "Chargers Gadget 23",
+    "product_image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=200&h=200&fit=crop",
+    "category": "chargers",
+    "price": 110,
+    "description": "This is a high-quality chargers gadget, model 23.",
+    "specification": [
+      "Touchscreen",
+      "GPS",
+      "Heart Rate Monitor"
+    ],
+    "availability": false,
+    "rating": 1.4
+  },
+  {
+    "product_id": "p24",
+    "product_title": "Computers Gadget 24",
+    "product_image": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=200&h=200&fit=crop",
+    "category": "computers",
+    "price": 69,
+    "description": "This is a high-quality computers gadget, model 24.",
+    "specification": [
+      "Fast Charging",
+      "Compact Design",
+      "Universal Compatibility"
+    ],
+    "availability": true,
+    "rating": 1.2
+  },
+  {
+    "product_id": "p25",
+    "product_title": "Power Banks Gadget 25",
+    "product_image": "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=200&h=200&fit=crop",
+    "category": "power banks",
+    "price": 58,
+    "description": "This is a high-quality power banks gadget, model 25.",
+    "specification": [
+      "Touchscreen",
+      "GPS",
+      "Heart Rate Monitor"
+    ],
+    "availability": true,
+    "rating": 2.4
+  },
+  {
+    "product_id": "p26",
+    "product_title": "Computers Gadget 26",
+    "product_image": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=200&h=200&fit=crop",
+    "category": "computers",
+    "price": 175,
+    "description": "This is a high-quality computers gadget, model 26.",
+    "specification": [
+      "10,000mAh",
+      "Dual USB Output",
+      "LED Indicator"
+    ],
+    "availability": true,
+    "rating": 3.1
+  },
+  {
+    "product_id": "p27",
+    "product_title": "Power Banks Gadget 27",
+    "product_image": "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=200&h=200&fit=crop",
+    "category": "power banks",
+    "price": 229,
+    "description": "This is a high-quality power banks gadget, model 27.",
+    "specification": [
+      "Fast Charging",
+      "Compact Design",
+      "Universal Compatibility"
+    ],
+    "availability": false,
+    "rating": 4.0
+  },
+  {
+    "product_id": "p28",
+    "product_title": "Chargers Gadget 28",
+    "product_image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=200&h=200&fit=crop",
+    "category": "chargers",
+    "price": 846,
+    "description": "This is a high-quality chargers gadget, model 28.",
+    "specification": [
+      "Bluetooth 5.0",
+      "Water Resistant",
+      "1-Year Warranty"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "p29",
+    "product_title": "Computers Gadget 29",
+    "product_image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=200&h=200&fit=crop",
+    "category": "computers",
+    "price": 75,
+    "description": "This is a high-quality computers gadget, model 29.",
+    "specification": [
+      "10,000mAh",
+      "Dual USB Output",
+      "LED Indicator"
+    ],
+    "availability": false,
+    "rating": 2.2
+  },
+  {
+    "product_id": "p30",
+    "product_title": "Phones Gadget 30",
+    "product_image": "https://images.unsplash.com/photo-1520923642038-b4259acecbd7?w=200&h=200&fit=crop",
+    "category": "phones",
+    "price": 557,
+    "description": "This is a high-quality phones gadget, model 30.",
+    "specification": [
+      "Touchscreen",
+      "GPS",
+      "Heart Rate Monitor"
+    ],
+    "availability": false,
+    "rating": 2.3
+  },
+  {
+    "product_id": "p31",
+    "product_title": "Phones Gadget 31",
+    "product_image": "https://images.unsplash.com/photo-1567581935884-3349723552ca?w=200&h=200&fit=crop",
+    "category": "phones",
+    "price": 497,
+    "description": "This is a high-quality phones gadget, model 31.",
+    "specification": [
+      "Quad-Core Processor",
+      "8GB RAM",
+      "256GB SSD"
+    ],
+    "availability": false,
+    "rating": 1.0
+  },
+  {
+    "product_id": "p32",
+    "product_title": "Phones Gadget 32",
+    "product_image": "https://images.unsplash.com/photo-1585060544812-6b45742d762f?w=200&h=200&fit=crop",
+    "category": "phones",
+    "price": 679,
+    "description": "This is a high-quality phones gadget, model 32.",
+    "specification": [
+      "Quad-Core Processor",
+      "8GB RAM",
+      "256GB SSD"
+    ],
+    "availability": false,
+    "rating": 3.2
+  },
+  {
+    "product_id": "p33",
+    "product_title": "Chargers Gadget 33",
+    "product_image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=200&h=200&fit=crop",
+    "category": "chargers",
+    "price": 147,
+    "description": "This is a high-quality chargers gadget, model 33.",
+    "specification": [
+      "Touchscreen",
+      "GPS",
+      "Heart Rate Monitor"
+    ],
+    "availability": false,
+    "rating": 1.5
+  },
+  {
+    "product_id": "p34",
+    "product_title": "Smart Watches Gadget 34",
+    "product_image": "https://images.unsplash.com/photo-1544117519-31a4b719223d?w=200&h=200&fit=crop",
+    "category": "smart watches",
+    "price": 842,
+    "description": "This is a high-quality smart watches gadget, model 34.",
+    "specification": [
+      "Bluetooth 5.0",
+      "Water Resistant",
+      "1-Year Warranty"
+    ],
+    "availability": true,
+    "rating": 3.9
+  },
+  {
+    "product_id": "p35",
+    "product_title": "Smart Watches Gadget 35",
+    "product_image": "https://images.unsplash.com/photo-1434056886845-dac89ffe9b56?w=200&h=200&fit=crop",
+    "category": "smart watches",
+    "price": 471,
+    "description": "This is a high-quality smart watches gadget, model 35.",
+    "specification": [
+      "Quad-Core Processor",
+      "8GB RAM",
+      "256GB SSD"
+    ],
+    "availability": false,
+    "rating": 1.9
+  },
+  {
+    "product_id": "p36",
+    "product_title": "Phones Gadget 36",
+    "product_image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=200&h=200&fit=crop",
+    "category": "phones",
+    "price": 183,
+    "description": "This is a high-quality phones gadget, model 36.",
+    "specification": [
+      "Quad-Core Processor",
+      "8GB RAM",
+      "256GB SSD"
+    ],
+    "availability": false,
+    "rating": 2.7
+  },
+  {
+    "product_id": "p37",
+    "product_title": "Smart Watches Gadget 37",
+    "product_image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=200&h=200&fit=crop",
+    "category": "smart watches",
+    "price": 443,
+    "description": "This is a high-quality smart watches gadget, model 37.",
+    "specification": [
+      "Fast Charging",
+      "Compact Design",
+      "Universal Compatibility"
+    ],
+    "availability": true,
+    "rating": 3.0
+  },
+  {
+    "product_id": "p38",
+    "product_title": "Phones Gadget 38",
+    "product_image": "https://images.unsplash.com/photo-1574944985070-8f3ebc6b79d2?w=200&h=200&fit=crop",
+    "category": "phones",
+    "price": 513,
+    "description": "This is a high-quality phones gadget, model 38.",
+    "specification": [
+      "Fast Charging",
+      "Compact Design",
+      "Universal Compatibility"
+    ],
+    "availability": true,
+    "rating": 3.7
+  },
+  {
+    "product_id": "p39",
+    "product_title": "Phones Gadget 39",
+    "product_image": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?w=200&h=200&fit=crop",
+    "category": "phones",
+    "price": 971,
+    "description": "This is a high-quality phones gadget, model 39.",
+    "specification": [
+      "10,000mAh",
+      "Dual USB Output",
+      "LED Indicator"
+    ],
+    "availability": false,
+    "rating": 1.3
+  },
+  {
+    "product_id": "p40",
+    "product_title": "Computers Gadget 40",
+    "product_image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=200&h=200&fit=crop",
+    "category": "computers",
+    "price": 473,
+    "description": "This is a high-quality computers gadget, model 40.",
+    "specification": [
+      "Bluetooth 5.0",
+      "Water Resistant",
+      "1-Year Warranty"
+    ],
+    "availability": false,
+    "rating": 2.5
+  },
+  {
+    "product_id": "p41",
+    "product_title": "Phones Gadget 41",
+    "product_image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=200&h=200&fit=crop",
+    "category": "phones",
+    "price": 221,
+    "description": "This is a high-quality phones gadget, model 41.",
+    "specification": [
+      "Touchscreen",
+      "GPS",
+      "Heart Rate Monitor"
+    ],
+    "availability": false,
+    "rating": 4.3
+  },
+  {
+    "product_id": "p42",
+    "product_title": "Power Banks Gadget 42",
+    "product_image": "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=200&h=200&fit=crop",
+    "category": "power banks",
+    "price": 605,
+    "description": "This is a high-quality power banks gadget, model 42.",
+    "specification": [
+      "Quad-Core Processor",
+      "8GB RAM",
+      "256GB SSD"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "p43",
+    "product_title": "Phones Gadget 43",
+    "product_image": "https://images.unsplash.com/photo-1574944985070-8f3ebc6b79d2?w=200&h=200&fit=crop",
+    "category": "phones",
+    "price": 944,
+    "description": "This is a high-quality phones gadget, model 43.",
+    "specification": [
+      "Touchscreen",
+      "GPS",
+      "Heart Rate Monitor"
+    ],
+    "availability": false,
+    "rating": 2.7
+  },
+  {
+    "product_id": "p44",
+    "product_title": "Computers Gadget 44",
+    "product_image": "https://images.unsplash.com/photo-1587831990711-23ca6441447b?w=200&h=200&fit=crop",
+    "category": "computers",
+    "price": 589,
+    "description": "This is a high-quality computers gadget, model 44.",
+    "specification": [
+      "Quad-Core Processor",
+      "8GB RAM",
+      "256GB SSD"
+    ],
+    "availability": true,
+    "rating": 1.3
+  },
+  {
+    "product_id": "p45",
+    "product_title": "Chargers Gadget 45",
+    "product_image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=200&h=200&fit=crop",
+    "category": "chargers",
+    "price": 461,
+    "description": "This is a high-quality chargers gadget, model 45.",
+    "specification": [
+      "10,000mAh",
+      "Dual USB Output",
+      "LED Indicator"
+    ],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": "p46",
+    "product_title": "Chargers Gadget 46",
+    "product_image": "https://images.unsplash.com/photo-1556656793-08538906a9f8?w=200&h=200&fit=crop",
+    "category": "chargers",
+    "price": 492,
+    "description": "This is a high-quality chargers gadget, model 46.",
+    "specification": [
+      "Quad-Core Processor",
+      "8GB RAM",
+      "256GB SSD"
+    ],
+    "availability": false,
+    "rating": 4.0
+  },
+  {
+    "product_id": "p47",
+    "product_title": "Smart Watches Gadget 47",
+    "product_image": "https://images.unsplash.com/photo-1434056886845-dac89ffe9b56?w=200&h=200&fit=crop",
+    "category": "smart watches",
+    "price": 651,
+    "description": "This is a high-quality smart watches gadget, model 47.",
+    "specification": [
+      "Quad-Core Processor",
+      "8GB RAM",
+      "256GB SSD"
+    ],
+    "availability": true,
+    "rating": 3.2
+  },
+  {
+    "product_id": "p48",
+    "product_title": "Smart Watches Gadget 48",
+    "product_image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=200&h=200&fit=crop",
+    "category": "smart watches",
+    "price": 517,
+    "description": "This is a high-quality smart watches gadget, model 48.",
+    "specification": [
+      "Bluetooth 5.0",
+      "Water Resistant",
+      "1-Year Warranty"
+    ],
+    "availability": true,
+    "rating": 3.0
+  },
+  {
+    "product_id": "p49",
+    "product_title": "Smart Watches Gadget 49",
+    "product_image": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=200&h=200&fit=crop",
+    "category": "smart watches",
+    "price": 298,
+    "description": "This is a high-quality smart watches gadget, model 49.",
+    "specification": [
+      "Touchscreen",
+      "GPS",
+      "Heart Rate Monitor"
+    ],
+    "availability": true,
+    "rating": 1.9
+  },
+  {
+    "product_id": "p50",
+    "product_title": "Computers Gadget 50",
+    "product_image": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d?w=200&h=200&fit=crop",
+    "category": "computers",
+    "price": 559,
+    "description": "This is a high-quality computers gadget, model 50.",
+    "specification": [
+      "Bluetooth 5.0",
+      "Water Resistant",
+      "1-Year Warranty"
+    ],
+    "availability": false,
+    "rating": 4.0
+  }
+]
